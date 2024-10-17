@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Testar.
+Student at Lund University
+🔭 I’m currently working on a Bachelor of Information Systems 
+
+
 
 <!--
 **NordstromJoel/NordstromJoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
